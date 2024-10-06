@@ -1,0 +1,6 @@
+omr6@cornell.edu,oshinrex,I like volleyball,freshman,she/her,oshin.rex, , , ,
+clm2@cornell.edu,Clare,i like cats,sophmore,she/her,clare.brew,,,,
+clm2@cornell.edu,Clare,i like cats,sophmore,she/her,clare.brew,AM,10/5/2024,Helen Newman,6:30 AM
+omr6@cornell.edu,oshinrex,I like volleyball,freshman,she/her,oshin.rex,AM,10/5/2024,Helen Newman,6 AM
+xhl@cornell.edu,sharon,i like pokemon,freshman,she,averagetoaster,,,,
+xhl@cornell.edu,sharon,i like pokemon,freshman,she,averagetoaster,PM,10/8/2024,Toni Morrison,7 PM
